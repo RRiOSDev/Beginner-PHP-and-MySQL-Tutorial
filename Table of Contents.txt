@@ -1,0 +1,59 @@
+=== About the Working Files===
+This PHP course is project based and users are encouraged to follow along and replicate the examples. To assist we have provided working files which can be found on the DVD in the folder called "Working Files", users who have purchased this product on digital download will find the files within the main folder. These working files have been created to work within the Sublime text editor which the author uses in this course.
+==============================
+
+=== Users who don't wish to use the recommended Sublime text editor ===
+While we strongly recommend that users take advantage of pre-prepared code snippets and the many features offered by the Sublime text code editor, some users may wish to use another editor to follow this course. While we do not recommend using a different editor, to assist these customers we've also included the snippets / working files ( where possible ) in plain text format. These can be found in the "Working Files-None-Sublime text Users" folder and for customers who don't wish to use the Sublime text editor these text based working files should be used. Certain lessons may require none Sublime text users to manually input code based on the authors screen.
+==============================
+
+To help you stay on track we have laid out a schedule of the order in which the working files should be used.
+
+01. Intro To Beginners PHP
+	0101 Intro What This Course Covers
+	0102 What We Need
+
+02. Getting Started
+	0201 Introducing XAMPP
+	0202 Downloading XAMPP
+	0203 XAMPP - Installing
+	0204 XAMPP - Setting Up
+	0205 Setting Up A PHP Editor - Sublime Text
+	0206 Introduction To Sublime Text
+	0207 The Sublime Text Interface
+	0208 Sublime Text Summary
+	0209 Downloading PHP Snippets
+
+**RESOURCE: RR_res_php.xml should be acquired from the Working Files or downloaded as instructed before proceeding beyond here**
+
+	0210 Using PHP Snippets
+	0211 PHP Comments
+	0212 Our First PHP Page
+	0213 Intro To MySQL Databases
+	0214 Into To phpMyAdmin
+	0215 External Helpful Resources
+	0216 Exercises
+
+03. Our First Look At MySQL And PHP
+	0301 Connecting To A MySQL Database - Part 1
+	0302 Connecting To A MySQL Database - Part 2
+	0303 Our First MySQL Query - Part 1
+	0304 Our First MySQL Query - Part 2
+	0305 Creating A MySQL Database
+	0306 Create MySQL Tables - Part 1
+	0307 Create MySQL Tables - Part 2
+	0308 Database Structure
+	0309 Updating MySQL Tables
+	0310 Updating MySQL Tables - Example
+	0311 MySQL Delete Command
+	0312 Inserting Data In MySQL
+	0313 Intro To Variables And Operators
+	0314 Arithmetic Operators
+	0315 Assignment Operators
+	0316 Comparison Operators
+	0317 Introduction To Arrays
+	0318 Numeric Arrays
+	0319 Associative Arrays
+	0320 Multi-Dimensional Arrays
+	0321 Creating And Working With Arrays
+	0322 Creating Arrays From A Text File
+	0323 Lesson Review
