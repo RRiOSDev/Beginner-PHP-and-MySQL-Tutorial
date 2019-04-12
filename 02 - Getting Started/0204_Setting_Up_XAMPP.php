@@ -5,7 +5,7 @@
 *	By:		Roger Robles - RR Web Designer & Digital Marketing Agency
 *	Date:	4/12/19
 *
-*	This script uses the echo statement to display the installation process for XAMPP.
+*	This script uses the echo statement to display the set up process for XAMPP.
 *
 *=====================================
 */
