@@ -5,7 +5,7 @@
 *	By:		Roger Robles - RR Web Designer & Digital Marketing Agency
 *	Date:	4/12/19
 *
-*	This script uses echo statement to display how to get started.
+*	This script uses the echo statement to display how to get started.
 *
 *=====================================
 */
